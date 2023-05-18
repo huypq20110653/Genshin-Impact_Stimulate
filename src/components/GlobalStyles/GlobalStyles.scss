@@ -3,6 +3,11 @@
 :root {
     --primary-color: rgb(225, 201, 148);
 }
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 html {
     font-size: 62.5%;
 }
